@@ -1,0 +1,1232 @@
+[
+  {
+    "id": 1,
+    "string": "\\(\\implies\\)",
+    "render": "\\(\\implies\\)",
+    "type": "logical"
+  },
+  {
+    "id": 2,
+    "string": "\\(\\iff\\)",
+    "render": "\\(\\iff\\)",
+    "type": "logical"
+  },
+  {
+    "id": 3,
+    "string": "\\(\\times\\)",
+    "render": "\\(\\times\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 4,
+    "string": "\\(\\#\\)",
+    "render": "\\(\\#\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 5,
+    "string": "\\(\\wedge\\)",
+    "render": "\\(\\wedge\\)",
+    "type": "logical"
+  },
+  {
+    "id": 6,
+    "string": "\\(\\vee\\)",
+    "render": "\\(\\vee\\)",
+    "type": "logical"
+  },
+  {
+    "id": 7,
+    "string": "\\(\\in\\)",
+    "render": "\\(\\in\\)",
+    "type": "set"
+  },
+  {
+    "id": 8,
+    "string": "\\(\\notin\\)",
+    "render": "\\(\\notin\\)",
+    "type": "set"
+  },
+  {
+    "id": 9,
+    "string": "\\(\\smallsetminus\\)",
+    "render": "\\(\\smallsetminus\\)",
+    "type": "set"
+  },
+  {
+    "id": 10,
+    "string": "\\(\\lim_{x \\to 0}\\)",
+    "render": "\\(\\lim_{x \\to 0}\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 11,
+    "string": "\\(\\infty\\)",
+    "render": "\\infty\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 12,
+    "string": "\\(\\pm\\)",
+    "render": "\\(\\pm\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 13,
+    "string": "\\(\\mp\\)",
+    "render": "\\(\\mp\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 14,
+    "string": "\\(\\emptyset\\)",
+    "render": "\\(\\emptyset\\)",
+    "type": "set"
+  },
+  {
+    "id": 15,
+    "string": "\\(\\forall\\)",
+    "render": "\\(\\forall\\)",
+    "type": "logical"
+  },
+  {
+    "id": 16,
+    "string": "\\(\\exists\\)",
+    "render": "\\(\\exists\\)",
+    "type": "logical"
+  },
+  {
+    "id": 17,
+    "string": "\\(\\neq\\)",
+    "render": "\\(\\neq\\)",
+    "type": "relational"
+  },
+  {
+    "id": 18,
+    "string": "\\(\\Delta\\)",
+    "render": "\\(\\Delta\\)",
+    "type": "greek"
+  },
+  {
+    "id": 19,
+    "string": "\\(\\to\\)",
+    "render": "\\(\\to\\)",
+    "type": "logical"
+  },
+  {
+    "id": 20,
+    "string": "\\(|\\)",
+    "render": "\\(|\\)",
+    "type": "logical"
+  },
+  {
+    "id": 21,
+    "string": "\\(\\nmid\\)",
+    "render": "\\(\\nmid\\)",
+    "type": "logical"
+  },
+  {
+    "id": 22,
+    "string": "\\(\\neg\\)",
+    "render": "\\(\\neg\\)",
+    "type": "logical"
+  },
+  {
+    "id": 23,
+    "string": "\\(\\approx\\)",
+    "render": "\\(\\approx\\)",
+    "type": "relational"
+  },
+  {
+    "id": 24,
+    "string": "\\(\\Gamma\\)",
+    "render": "\\(\\Gamma\\)",
+    "type": "greek"
+  },
+  {
+    "id": 25,
+    "string": "\\(\\Theta\\)",
+    "render": "\\(\\Theta\\)",
+    "type": "greek"
+  },
+  {
+    "id": 26,
+    "string": "\\(\\Lambda\\)",
+    "render": "\\(\\Lambda\\)",
+    "type": "greek"
+  },
+  {
+    "id": 27,
+    "string": "\\(\\Xi\\)",
+    "render": "\\(\\Xi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 28,
+    "string": "\\(\\Pi\\)",
+    "render": "\\(\\Pi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 29,
+    "string": "\\(\\Sigma\\)",
+    "render": "\\(\\Sigma\\)",
+    "type": "greek"
+  },
+  {
+    "id": 30,
+    "string": "\\(\\Upsilon\\)",
+    "render": "\\(\\Upsilon\\)",
+    "type": "greek"
+  },
+  {
+    "id": 31,
+    "string": "\\(\\Phi\\)",
+    "render": "\\(\\Phi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 32,
+    "string": "\\(\\Psi\\)",
+    "render": "\\(\\Psi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 33,
+    "string": "\\(\\Omega\\)",
+    "render": "\\(\\Omega\\)",
+    "type": "greek"
+  },
+  {
+    "id": 34,
+    "string": "\\(\\subset\\)",
+    "render": "\\(\\subset\\)",
+    "type": "set"
+  },
+  {
+    "id": 35,
+    "string": "\\(\\cup\\)",
+    "render": "\\(\\cup\\)",
+    "type": "set"
+  },
+  {
+    "id": 36,
+    "string": "\\(\\cap\\)",
+    "render": "\\(\\cap\\)",
+    "type": "set"
+  },
+  {
+    "id": 37,
+    "string": "\\(\\subseteq\\)",
+    "render": "\\(\\subseteq\\)",
+    "type": "set"
+  },
+  {
+    "id": 38,
+    "string": "\\(\\subsetneq\\)",
+    "render": "\\(\\subsetneq\\)",
+    "type": "set"
+  },
+  {
+    "id": 39,
+    "string": "\\(\\nsubseteq\\)",
+    "render": "\\(\\nsubseteq\\)",
+    "type": "set"
+  },
+  {
+    "id": 40,
+    "string": "\\(\\bigtriangleup\\)",
+    "render": "\\(\\bigtriangleup\\)",
+    "type": "shape"
+  },
+  {
+    "id": 41,
+    "string": "\\(\\bigtriangledown\\)",
+    "render": "\\(\\bigtriangledown\\)",
+    "type": "shape"
+  },
+  {
+    "id": 42,
+    "string": "\\(\\bigcirc\\)",
+    "render": "\\(\\bigcirc\\)",
+    "type": "shape"
+  },
+  {
+    "id": 43,
+    "string": "\\(\\triangleleft\\)",
+    "render": "\\(\\triangleleft\\)",
+    "type": "shape"
+  },
+  {
+    "id": 44,
+    "string": "\\(\\triangleright\\)",
+    "render": "\\(\\triangleright\\)",
+    "type": "shape"
+  },
+  {
+    "id": 45,
+    "string": "\\(\\square\\)",
+    "render": "\\(\\square\\)",
+    "type": "shape"
+  },
+  {
+    "id": 46,
+    "string": "\\(\\lt\\)",
+    "render": "\\lt\\)",
+    "type": "relational"
+  },
+  {
+    "id": 47,
+    "string": "\\(\\gt\\)",
+    "render": "\\gt\\)",
+    "type": "relational"
+  },
+  {
+    "id": 48,
+    "string": "\\(\\le\\)",
+    "render": "\\(\\le\\)",
+    "type": "relational"
+  },
+  {
+    "id": 49,
+    "string": "\\(\\ge\\)",
+    "render": "\\(\\ge\\)",
+    "type": "relational"
+  },
+  {
+    "id": 50,
+    "string": "\\(\\leqslant\\)",
+    "render": "\\(\\leqslant\\)",
+    "type": "relational"
+  },
+  {
+    "id": 51,
+    "string": "\\(\\geqslant\\)",
+    "render": "\\geqslant\\)",
+    "type": "relational"
+  },
+  {
+    "id": 52,
+    "string": "\\(\\ll\\)",
+    "render": "\\(\\ll\\)",
+    "type": "relational"
+  },
+  {
+    "id": 53,
+    "string": "\\(\\gg\\)",
+    "render": "\\(\\gg\\)",
+    "type": "relational"
+  },
+  {
+    "id": 54,
+    "string": "\\(\\prec\\)",
+    "render": "\\(\\prec\\)",
+    "type": "relational"
+  },
+  {
+    "id": 55,
+    "string": "\\(\\succ\\)",
+    "render": "\\(\\succ\\)",
+    "type": "relational"
+  },
+  {
+    "id": 56,
+    "string": "\\(\\lesssim\\)",
+    "render": "\\(\\lesssim\\)",
+    "type": "relational"
+  },
+  {
+    "id": 57,
+    "string": "\\(\\gtrsim\\)",
+    "render": "\\(\\gtrsim\\)",
+    "type": "relational"
+  },
+  {
+    "id": 58,
+    "string": "\\(\\nless\\)",
+    "render": "\\(\\nless\\)",
+    "type": "relational"
+  },
+  {
+    "id": 59,
+    "string": "\\(\\ngtr\\)",
+    "render": "\\(\\ngtr\\)",
+    "type": "relational"
+  },
+  {
+    "id": 60,
+    "string": "\\(\\nleq\\)",
+    "render": "\\(\\nleq\\)",
+    "type": "relational"
+  },
+  {
+    "id": 61,
+    "string": "\\(\\ngeqslant\\)",
+    "render": "\\(\\ngeqslant\\)",
+    "type": "relational"
+  },
+  {
+    "id": 62,
+    "string": "\\(\\nprec\\)",
+    "render": "\\(\\nprec\\)",
+    "type": "relational"
+  },
+  {
+    "id": 63,
+    "string": "\\(\\nsucc\\)",
+    "render": "\\(\\nsucc\\)",
+    "type": "relational"
+  },
+  {
+    "id": 64,
+    "string": "\\(\\gets\\)",
+    "render": "\\(\\gets\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 65,
+    "string": "\\(\\to\\)",
+    "render": "\\(\\to\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 66,
+    "string": "\\(\\longleftarrow\\)",
+    "render": "\\(\\longleftarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 67,
+    "string": "\\(\\longrightarrow\\)",
+    "render": "\\(\\longrightarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 68,
+    "string": "\\(\\leftrightarrow\\)",
+    "render": "\\(\\leftrightarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 69,
+    "string": "\\(\\leftharpoonup\\)",
+    "render": "\\(\\leftharpoonup\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 70,
+    "string": "\\(\\rightharpoonup\\)",
+    "render": "\\(\\rightharpoonup\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 71,
+    "string": "\\(\\mapsto\\)",
+    "render": "\\(\\mapsto\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 72,
+    "string": "\\(\\longmapsto\\)",
+    "render": "\\(\\longmapsto\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 73,
+    "string": "\\(\\longleftrightarrow\\)",
+    "render": "\\(\\longleftrightarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 74,
+    "string": "\\(\\leftharpoondown\\)",
+    "render": "\\(\\leftharpoondown\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 75,
+    "string": "\\(\\rightharpoondown\\)",
+    "render": "\\(\\rightharpoondown\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 76,
+    "string": "\\(\\leftrightharpoons\\)",
+    "render": "\\(\\leftrightharpoons\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 78,
+    "string": "\\(\\updownarrow\\)",
+    "render": "\\(\\updownarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 79,
+    "string": "\\(\\uparrow\\)",
+    "render": "\\(\\uparrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 80,
+    "string": "\\(\\downarrow\\)",
+    "render": "\\(\\downarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 81,
+    "string": "\\(\\swarrow\\)",
+    "render": "\\(\\swarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 82,
+    "string": "\\(\\searrow\\)",
+    "render": "\\(\\searrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 83,
+    "string": "\\(\\upuparrows\\)",
+    "render": "\\(\\upuparrows\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 84,
+    "string": "\\(\\curvearrowleft\\)",
+    "render": "\\(\\curvearrowleft\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 85,
+    "string": "\\(\\curvearrowright\\)",
+    "render": "\\(\\curvearrowright\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 86,
+    "string": "\\(\\nwarrow\\)",
+    "render": "\\(\\nwarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 87,
+    "string": "\\(\\nearrow\\)",
+    "render": "\\(\\nearrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 88,
+    "string": "\\(\\rightrightarrows\\)",
+    "render": "\\(\\rightrightarrows\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 89,
+    "string": "\\(\\circlearrowright\\)",
+    "render": "\\(\\circlearrowright\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 90,
+    "string": "\\(\\rightarrowtail\\)",
+    "render": "\\(\\rightarrowtail\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 91,
+    "string": "\\(\\rightsquigarrow\\)",
+    "render": "\\(\\rightsquigarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 92,
+    "string": "\\(\\looparrowright\\)",
+    "render": "\\(\\looparrowright\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 93,
+    "string": "\\(\\nrightarrow\\)",
+    "render": "\\(\\nrightarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 94,
+    "string": "\\(\\equiv\\)",
+    "render": "\\(\\equiv\\)",
+    "type": "relational"
+  },
+  {
+    "id": 95,
+    "string": "\\(\\sim\\)",
+    "render": "\\(\\sim\\)",
+    "type": "relational"
+  },
+  {
+    "id": 96,
+    "string": "\\(\\asymp\\)",
+    "render": "\\(\\asymp\\)",
+    "type": "relational"
+  },
+  {
+    "id": 97,
+    "string": "\\(\\simeq\\)",
+    "render": "\\(\\simeq\\)",
+    "type": "relational"
+  },
+  {
+    "id": 98,
+    "string": "\\(\\cong\\)",
+    "render": "\\(\\cong\\)",
+    "type": "relational"
+  },
+  {
+    "id": 99,
+    "string": "\\(\\nabla\\)",
+    "render": "\\(\\nabla\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 100,
+    "string": "\\(\\div\\)",
+    "render": "\\(\\div\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 101,
+    "string": "\\(\\vdash\\)",
+    "render": "\\(\\vdash\\)",
+    "type": "logical"
+  },
+  {
+    "id": 102,
+    "string": "\\(\\models\\)",
+    "render": "\\(\\models\\)",
+    "type": "logical"
+  },
+  {
+    "id": 103,
+    "string": "\\(\\propto\\)",
+    "render": "\\(\\propto\\)",
+    "type": "relational"
+  },
+  {
+    "id": 104,
+    "string": "\\(\\Re\\)",
+    "render": "\\(\\Re\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 105,
+    "string": "\\(\\Im\\)",
+    "render": "\\(\\Im\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 106,
+    "string": "\\(\\star\\)",
+    "render": "\\(\\star\\)",
+    "type": "symbol"
+  },
+  {
+    "id": 107,
+    "string": "\\(\\ast\\)",
+    "render": "\\(\\ast\\)",
+    "type": "symbol"
+  },
+  {
+    "id": 108,
+    "string": "\\(\\bullet\\)",
+    "render": "\\(\\bullet\\)",
+    "type": "symbol"
+  },
+  {
+    "id": 109,
+    "string": "\\(\\circ\\)",
+    "render": "\\(\\circ\\)",
+    "type": "symbol"
+  },
+  {
+    "id": 110,
+    "string": "\\(\\imath\\)",
+    "render": "\\(\\imath\\)",
+    "type": "latin"
+  },
+  {
+    "id": 111,
+    "string": "\\(\\jmath\\)",
+    "render": "\\(\\jmath\\)",
+    "type": "latin"
+  },
+  {
+    "id": 112,
+    "string": "\\(\\oplus\\)",
+    "render": "\\(\\oplus\\)",
+    "type": "set"
+  },
+  {
+    "id": 113,
+    "string": "\\(\\ominus\\)",
+    "render": "\\(\\ominus\\)",
+    "type": "set"
+  },
+  {
+    "id": 114,
+    "string": "\\(\\otimes\\)",
+    "render": "\\(\\otimes\\)",
+    "type": "set"
+  },
+  {
+    "id": 115,
+    "string": "\\(\\oslash\\)",
+    "render": "\\(\\oslash\\)",
+    "type": "set"
+  },
+  {
+    "id": 116,
+    "string": "\\(\\cdot\\)",
+    "render": "\\(\\cdot\\)",
+    "type": "symbol"
+  },
+  {
+    "id": 117,
+    "string": "\\(\\hbar\\)",
+    "render": "\\(\\hbar\\)",
+    "type": "mathematical"
+  },
+  {
+    "id": 118,
+    "string": "\\(\\cdots\\)",
+    "render": "\\(\\cdots\\)",
+    "type": "symbol"
+  },
+  {
+    "id": 119,
+    "string": "\\(\\vdots\\)",
+    "render": "\\(\\vdots\\)",
+    "type": "symbol"
+  },
+  {
+    "id": 120,
+    "string": "\\(\\ddots\\)",
+    "render": "\\(\\ddots\\)",
+    "type": "symbol"
+  },
+  {
+    "id": 121,
+    "string": "\\(\\angle\\)",
+    "render": "\\(\\angle\\)",
+    "type": "geometry"
+  },
+  {
+    "id": 122,
+    "string": "\\(\\bot\\)",
+    "render": "\\(\\bot\\)",
+    "type": "geometry"
+  },
+  {
+    "id": 123,
+    "string": "\\(\\bowtie\\)",
+    "render": "\\(\\bowtie\\)",
+    "type": "geometry"
+  },
+  {
+    "id": 124,
+    "string": "\\(\\parallel\\)",
+    "render": "\\(\\parallel\\)",
+    "type": "geometry"
+  },
+  {
+    "id": 125,
+    "string": "\\(\\not\\equiv\\)",
+    "render": "\\(\\not\\equiv\\)",
+    "type": "geometry"
+  },
+  {
+    "id": 126,
+    "string": "\\(\\nsim\\)",
+    "render": "\\(\\nsim\\)",
+    "type": "geometry"
+  },
+  {
+    "id": 127,
+    "string": "\\(\\ncong\\)",
+    "render": "\\(\\ncong\\)",
+    "type": "geometry"
+  },
+  {
+    "id": 128,
+    "string": "\\(\\nexists\\)",
+    "render": "\\(\\nexists\\)",
+    "type": "geometry"
+  },
+  {
+    "id": 129,
+    "string": "\\(\\measuredangle\\)",
+    "render": "\\(\\measuredangle\\)",
+    "type": "geometry"
+  },
+  {
+    "id": 130,
+    "string": "\\(\\Leftarrow\\)",
+    "render": "\\(\\Leftarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 131,
+    "string": "\\(\\Rightarrow\\)",
+    "render": "\\(\\Rightarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 132,
+    "string": "\\(\\Leftrightarrow\\)",
+    "render": "\\(\\Leftrightarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 133,
+    "string": "\\(\\Longleftarrow\\)",
+    "render": "\\(\\Longleftarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 134,
+    "string": "\\(\\Uparrow\\)",
+    "render": "\\(\\Uparrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 135,
+    "string": "\\(\\Downarrow\\)",
+    "render": "\\(\\Downarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 136,
+    "string": "\\(\\Updownarrow\\)",
+    "render": "\\(\\Updownarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 137,
+    "string": "\\(\\nLeftarrow\\)",
+    "render": "\\(\\nLeftarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 138,
+    "string": "\\(\\nRightarrow\\)",
+    "render": "\\(\\nRightarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 139,
+    "string": "\\(\\nLeftrightarrow\\)",
+    "render": "\\(\\nLeftrightarrow\\)",
+    "type": "arrow"
+  },
+  {
+    "id": 140,
+    "string": "\\(\\alpha\\)",
+    "render": "\\(\\alpha\\)",
+    "type": "greek"
+  },
+  {
+    "id": 141,
+    "string": "\\(beta\\)",
+    "render": "\\\beta\\)",
+    "type": "greek"
+  },
+  {
+    "id": 142,
+    "string": "\\(\\gamma\\)",
+    "render": "\\(\\gamma\\)",
+    "type": "greek"
+  },
+  {
+    "id": 143,
+    "string": "\\(\\delta\\)",
+    "render": "\\(\\delta\\)",
+    "type": "greek"
+  },
+  {
+    "id": 144,
+    "string": "\\(\\epsilon\\)",
+    "render": "\\(\\epsilon\\)",
+    "type": "greek"
+  },
+  {
+    "id": 145,
+    "string": "\\(\\varepsilon\\)",
+    "render": "\\(\\varepsilon\\)",
+    "type": "greek"
+  },
+  {
+    "id": 146,
+    "string": "\\(\\zeta\\)",
+    "render": "\\(\\zeta\\)",
+    "type": "greek"
+  },
+  {
+    "id": 147,
+    "string": "\\(\\eta\\)",
+    "render": "\\(\\eta\\)",
+    "type": "greek"
+  },
+  {
+    "id": 148,
+    "string": "\\(\\theta\\)",
+    "render": "\\(\\theta\\)",
+    "type": "greek"
+  },
+  {
+    "id": 149,
+    "string": "\\(\\vartheta\\)",
+    "render": "\\(\\vartheta\\)",
+    "type": "greek"
+  },
+  {
+    "id": 150,
+    "string": "\\(\\iota\\)",
+    "render": "\\(\\iota//)",
+    "type": "greek"
+  },
+  {
+    "id": 151,
+    "string": "\\(\\kappa\\)",
+    "render": "\\(\\kappa\\)",
+    "type": "greek"
+  },
+  {
+    "id": 152,
+    "string": "\\(\\lambda\\)",
+    "render": "\\(\\lambda\\)",
+    "type": "greek"
+  },
+  {
+    "id": 153,
+    "string": "\\(\\mu\\)",
+    "render": "\\(\\mu\\)",
+    "type": "greek"
+  },
+  {
+    "id": 154,
+    "string": "\\(\\nu\\)",
+    "render": "\\(\\nu\\)",
+    "type": "greek"
+  },
+  {
+    "id": 155,
+    "string": "\\(\\xi\\)",
+    "render": "\\(\\xi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 156,
+    "string": "\\(o\\)",
+    "render": "\\(o\\)",
+    "type": "greek"
+  },
+  {
+    "id": 157,
+    "string": "\\(\\pi\\)",
+    "render": "\\(\\pi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 158,
+    "string": "\\(\\varpi\\)",
+    "render": "\\(\\varpi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 159,
+    "string": "\\(\\rho\\)",
+    "render": "\\(\\rho\\)",
+    "type": "greek"
+  },
+  {
+    "id": 160,
+    "string": "\\(\\varrho\\)",
+    "render": "\\(\\varrho\\)",
+    "type": "greek"
+  },
+  {
+    "id": 161,
+    "string": "\\(\\sigma\\)",
+    "render": "\\(\\sigma\\)",
+    "type": "greek"
+  },
+  {
+    "id": 162,
+    "string": "\\(\\varsigma\\)",
+    "render": "\\(\\varsigma\\)",
+    "type": "greek"
+  },
+  {
+    "id": 163,
+    "string": "\\(\\tau\\)",
+    "render": "\\(\\tau\\)",
+    "type": "greek"
+  },
+  {
+    "id": 164,
+    "string": "\\(\\upsilon\\)",
+    "render": "\\(\\upsilon\\)",
+    "type": "greek"
+  },
+  {
+    "id": 165,
+    "string": "\\(\\phi \\)\\)",
+    "render": "\\(\\phi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 166,
+    "string": "\\(\\varphi\\)",
+    "render": "\\(\\varphi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 167,
+    "string": "\\(\\chi\\)",
+    "render": "\\(\\chi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 168,
+    "string": "\\(\\psi \\)",
+    "render": "\\(\\psi\\)",
+    "type": "greek"
+  },
+  {
+    "id": 169,
+    "string": "\\(\\omega\\)",
+    "render": "\\(\\omega\\)",
+    "type": "greek"
+  },
+  {
+    "id": 170,
+    "string": "\\(\\ln\\)",
+    "render": "\\(\\ln\\)",
+    "type": "function"
+  },
+  {
+    "id": 171,
+    "string": "\\(\\log\\)",
+    "render": "\\(\\log\\)",
+    "type": "function"
+  },
+  {
+    "id": 172,
+    "string": "\\(\\exp\\)",
+    "render": "\\(\\exp\\)",
+    "type": "function"
+  },
+  {
+    "id": 173,
+    "string": "\\(\\lg\\)",
+    "render": "\\(\\lg\\)",
+    "type": "function"
+  },
+  {
+    "id": 174,
+    "string": "\\(\\sin\\)",
+    "render": "\\(\\sin\\)",
+    "type": "function"
+  },
+  {
+    "id": 175,
+    "string": "\\(\\cos\\)",
+    "render": "\\(\\cos\\)",
+    "type": "function"
+  },
+  {
+    "id": 176,
+    "string": "\\(\\tan\\)",
+    "render": "\\(\\tan\\)",
+    "type": "function"
+  },
+  {
+    "id": 177,
+    "string": "\\(\\csc\\)",
+    "render": "\\(\\csc\\)",
+    "type": "function"
+  },
+  {
+    "id": 178,
+    "string": "\\(\\sec\\)",
+    "render": "\\(\\sec\\)",
+    "type": "function"
+  },
+  {
+    "id": 179,
+    "string": "\\(\\cot\\)",
+    "render": "\\(\\cot\\)",
+    "type": "function"
+  },
+  {
+    "id": 180,
+    "string": "\\(\\sinh\\)",
+    "render": "\\(\\sinh\\)",
+    "type": "function"
+  },
+  {
+    "id": 181,
+    "string": "\\(\\cosh\\)",
+    "render": "\\(\\cosh\\)",
+    "type": "function"
+  },
+  {
+    "id": 182,
+    "string": "\\(\\tanh\\)",
+    "render": "\\(\\tanh\\)",
+    "type": "function"
+  },
+  {
+    "id": 183,
+    "string": "\\(\\coth\\)",
+    "render": "\\(\\coth\\)",
+    "type": "function"
+  },
+  {
+    "id": 184,
+    "string": "\\(\\arcsin\\)",
+    "render": "\\(\\arcsin\\)",
+    "type": "function"
+  },
+  {
+    "id": 185,
+    "string": "\\(\\arccos\\)",
+    "render": "\\(\\arccos\\)",
+    "type": "function"
+  },
+  {
+    "id": 186,
+    "string": "\\(\\arctan\\)",
+    "render": "\\(\\arctan\\)",
+    "type": "function"
+  },
+  {
+    "id": 187,
+    "string": "\\(\\textrm{arccsc}\\)",
+    "render": "\\(\\textrm{arccsc}\\)",
+    "type": "function"
+  },
+  {
+    "id": 188,
+    "string": "\\(\\textrm{arcsec}\\)",
+    "render": "\\(\\textrm{arcsec}\\)",
+    "type": "function"
+  },
+  {
+    "id": 189,
+    "string": "\\(\\textrm{arccot}\\)",
+    "render": "\\(\\textrm{arccot}\\)",
+    "type": "function"
+  },
+  {
+    "id": 190,
+    "string": "\\(\\textrm{argsinh}\\)",
+    "render": "\\(\\textrm{argsinh}\\)",
+    "type": "function"
+  },
+  {
+    "id": 191,
+    "string": "\\(\\textrm{argcosh}\\)",
+    "render": "\\(\\textrm{argcosh}\\)",
+    "type": "function"
+  },
+  {
+    "id": 192,
+    "string": "\\(\\textrm{argtanh}\\)",
+    "render": "\\(\\textrm{argtanh}\\)",
+    "type": "function"
+  },
+  {
+    "id": 193,
+    "string": "\\(\\lim\\)",
+    "render": "\\(\\lim\\)",
+    "type": "function"
+  },
+  {
+    "id": 194,
+    "string": "\\(\\liminf\\)",
+    "render": "\\(\\liminf\\)",
+    "type": "function"
+  },
+  {
+    "id": 195,
+    "string": "\\(\\limsup\\)",
+    "render": "\\(\\limsup\\)",
+    "type": "function"
+  },
+  {
+    "id": 196,
+    "string": "\\(\\max\\)",
+    "render": "\\(\\max\\)",
+    "type": "function"
+  },
+  {
+    "id": 197,
+    "string": "\\(\\min\\)",
+    "render": "\\(\\min\\)",
+    "type": "function"
+  },
+  {
+    "id": 198,
+    "string": "\\(\\arg\\)",
+    "render": "\\(\\arg\\)",
+    "type": "function"
+  },
+  {
+    "id": 199,
+    "string": "\\(\\det\\)",
+    "render": "\\det\\)",
+    "type": "function"
+  },
+  {
+    "id": 200,
+    "string": "\\(\\dim\\)",
+    "render": "\\(\\dim\\)",
+    "type": "function"
+  },
+  {
+    "id": 201,
+    "string": "\\(\\gcd\\)",
+    "render": "\\(\\gcd\\)",
+    "type": "function"
+  },
+  {
+    "id": 202,
+    "string": "\\(\\hom\\)",
+    "render": "\\(\\hom\\)",
+    "type": "function"
+  },
+  {
+    "id": 203,
+    "string": "\\(\\ker\\)",
+    "render": "\\(\\ker\\)",
+    "type": "function"
+  },
+  {
+    "id": 204,
+    "string": "\\(\\Pr\\)",
+    "render": "\\(\\Pr\\)",
+    "type": "function"
+  },
+  {
+    "id": 205,
+    "string": "\\(\\inf\\)",
+    "render": "\\(\\inf\\)",
+    "type": "function"
+  },
+  {
+    "id": 206,
+    "string": "\\(\\sup\\)",
+    "render": "\\(\\sup\\)",
+    "type": "function"
+  }
+]

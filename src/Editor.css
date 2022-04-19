@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.mathjax-editor {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: inherit;
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+  }
+
+.btn {
+    padding: 5px 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: #000;
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-align: center;
+    appearance: button;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .btn2 {
+    padding: 5px 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: crimson;
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-align: center;
+    appearance: button;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .btn svg {
+    margin-right: 8px;
+  }
+  
+  .btn-reverse {
+    background: #fff;
+    color: #000;
+  }
+  
+  .btn-block {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .btn:hover {
+    transform: scale(0.98);
+  }
+
+  .btn-group {
+      display:grid;
+      grid-template-columns: repeat(10, 10%)
+  
+  }
+
+  .btn-group button {
+      margin: 1rem;
+      padding: 1rem;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    border-bottom: 1px solid #e6e6e6;
+    margin-bottom: 60px;
+  }
+  .header ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .header ul li {
+    margin-left: 20px;
+    list-style: none;
+  }
+  
+  .header ul li a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color:crimson;
+    font-size: x-small;
+  }
+  
+  .header ul li a:hover {
+    color: #777;
+  }
+  
+  .header ul li a svg {
+    margin-right: 5px;
+  }
+  
+  .heading {
+    font-size: 0.2rem;
+    font-weight: 700;
+    margin-bottom: 50px;
+    padding: 0 20px;
+  }
+  
+  .heading p {
+    color: #828282;
+  }
+
+  @media (max-width: 1000px) {
+    .btn-group {
+      display:grid;
+      grid-template-columns: repeat(5, 20%)
+    }
+}
